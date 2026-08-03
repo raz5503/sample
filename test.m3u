@@ -1,10 +1,21 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="",Fussball
-http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
-#EXTINF:-1  tvg-logo="",m6
-http://tv.zeuspro.xyz:8080/live/peterordonez/OKEtJocXkL/211612.m3u8
-#EXTINF:-1  tvg-logo="",tn
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
-#EXTINF:-1  tvg-logo="",i
-https://xameleon.phantemlis.top/four/secure/2431f4c1abe38d03bfbb41faa1b08a21/1784458795/premium350/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1  tvg-logo="",NAT GEO hindi
+http://202.70.146.135:8000/play/a05o/index.m3u8
+#EXTINF:-1  tvg-logo="",Discovery hindi
+http://202.70.146.135:8000/play/a05z/index.m3u8
+#EXTINF:-1  tvg-logo="",id
+https://stream.ottplus.live/live/id_hd_abr/index.m3u8
+#EXTINF:-1  tvg-logo="",discovery asia
+https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia-avc1_3000000=67-mp4a_256000_eng=12.m3u8
+#EXTINF:-1  tvg-logo="",id
+https://stream.ottplus.live/live/id_hd_abr/index.m3u8
+#EXTINF:-1  tvg-logo="",tsn 1
+http://40.160.24.55/TSN_1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  tvg-logo="",tsn 2
+http://40.160.24.55/TSN_2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  tvg-logo="",tsn 3
+http://40.160.24.55/TSN_3/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  tvg-logo="",tsn 4
+http://40.160.24.55/TSN_4/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  tvg-logo="",tsn 5
+http://40.160.24.55/TSN_5/tracks-v1a1/mono.ts.m3u8
