@@ -8,4 +8,6 @@ https://stream.ottplus.live/live/id_hd_abr/index.m3u8
 #EXTINF:-1  tvg-logo="",discovery asia
 https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia-avc1_3000000=67-mp4a_256000_eng=12.m3u8
 #EXTINF:-1  tvg-logo="",itv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://hamis.romponalis.st/
 https://xameleon.phantemlis.top/four/secure/028d396945cc725ee9300dbcbac52547/1785860345/premium350/index.m3u8
