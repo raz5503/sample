@@ -7,5 +7,4 @@ http://202.70.146.135:8000/play/a05z/index.m3u8
 https://stream.ottplus.live/live/id_hd_abr/index.m3u8
 #EXTINF:-1  tvg-logo="",discovery asia
 https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia-avc1_3000000=67-mp4a_256000_eng=12.m3u8
-#EXTINF:-1  tvg-logo="",id
-https://go.skym3u.top/bmdq.m3u
+
