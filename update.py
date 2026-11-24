@@ -1,7 +1,7 @@
 
 import requests
 
-SOURCE_URL = "https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/2.m3u"
+SOURCE_URL = "https://raw.githubusercontent.com/ahan443/FreeHunter/refs/heads/main/Boss.m3u"
 
 response = requests.get(SOURCE_URL, timeout=30)
 response.raise_for_status()
