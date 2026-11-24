@@ -16,7 +16,7 @@ for line in lines:
     if line and line != "#EXTM3U":
         output.append(line)
 
-with open("1.m3u", "w", encoding="utf-8") as f:
+with open("test.m3u", "w", encoding="utf-8") as f:
     f.write("\n".join(output) + "\n")
 
-print("1.m3u updated successfully!")
+print("test.m3u updated successfully!")
