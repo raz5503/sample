@@ -1,7 +1,7 @@
 
 import requests
 
-SOURCE_URL = "https://raw.githubusercontent.com/ahan443/FreeHunter/refs/heads/main/Boss.m3u"
+SOURCE_URL = "https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/2.m3u"
 
 response = requests.get(SOURCE_URL, timeout=30)
 response.raise_for_status()
@@ -16,7 +16,7 @@ for line in lines:
     if line and line != "#EXTM3U":
         output.append(line)
 
-with open("test.m3u", "w", encoding="utf-8") as f:
+with open("1.m3u", "w", encoding="utf-8") as f:
     f.write("\n".join(output) + "\n")
 
-print("test.m3u updated successfully!")
+print("1.m3u updated successfully!")
